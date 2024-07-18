@@ -1,7 +1,7 @@
 # Surveyform
 In the survey form project, you will build a website for taking surveys using HTML form from scratch. All the elements of the form can be created using basic HTML.
 # How are We going to Build the Survey Form?
-Use the <form> element to create an HTML form for user input.
+Use the form element to create an HTML form for user input.
 The form element contains different options name, email, age, etc. The different input elements have different tasks assigned to them like
 name for taking name input
 email for taking email input
